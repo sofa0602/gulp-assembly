@@ -1,0 +1,11 @@
+.footer {
+	height: 50px;
+	background-color: rgb(255, 255, 255);
+	width: 1000px;
+}
+
+@media (max-width: 700px) {
+	.footer {
+		width: 300px;
+	}
+}
